@@ -1,3 +1,8 @@
+[![Build Status](https://travis-ci.org/babeguru/AsetOn-Desktop.svg?branch=master)](https://travis-ci.org/babeguru/AsetOn-Desktop)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![HitCount](http://hits.dwyl.io/babeguru/AsetOn-Desktop.svg)](http://hits.dwyl.io/babeguru/AsetOn-Desktop)
+[![Patreon](https://img.shields.io/badge/donations-Patreon-orange.svg)](https://www.patreon.com/babeguru)
+
 # AsetOn-Desktop
 
 >Asset Management System
@@ -114,8 +119,3 @@ public class FXMLController {
 > Kelima, jalankan program untuk melihat hasilnya
 
 ![App](App.png)
-
-## Donasi
->Jika anda merasa proyek ini membantu anda, jangan sungkan untuk mendukungnya dengan memberikan sedikit donasi.
-
-[![PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6HBXH72JVPBSQ)
